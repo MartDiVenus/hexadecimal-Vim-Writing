@@ -11,13 +11,13 @@ set number
 set history=15
 
 
-colorscheme hexmartColors
+colorscheme hexmart
 
 syntax enable
 
 syntax on
 
-runtime! syntax/hexmartSyntax.vim
+runtime! syntax/hexmart.vim
 
 set guifont=DejaVu\ Sans\ Mono\ 12
 
