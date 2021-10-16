@@ -11,13 +11,13 @@ set number
 set history=15
 
 
-colorscheme hexmartColors
+colorscheme hexmart
 
 syntax enable
 
 syntax on
 
-runtime! syntax/hexmartSyntax.vim
+runtime! syntax/hexmart.vim
 
 " To open, by hexmart.vim, *.hex files - those having exadecimal clear text and to compi-
 " le -.   However, for beginners, *.txt files are directly affected by hexmart configura-
