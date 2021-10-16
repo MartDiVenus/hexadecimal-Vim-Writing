@@ -1,7 +1,7 @@
 # Abstract
 Hexadecimal Vim Writing: hexadecimal syntax, colours, gvim and vim configuration.
 
-  There are not the Decimal/Hexadecimal Numbers, Ascii/Hexadecimal Digit Numbers
+  There are not Decimal/Hexadecimal Numbers, Ascii/Hexadecimal Digit Numbers
 highlight groups because they are simply recognized, with the naked eye.
 
 
