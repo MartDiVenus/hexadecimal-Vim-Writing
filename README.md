@@ -2,11 +2,10 @@
 Hexadecimal Vim Writing: hexadecimal syntax, colours, gvim and vim configuration.
 
   There are not Decimal/Hexadecimal Numbers, Ascii/Hexadecimal Digit Numbers
-highlight groups because they are simply recognized, with the naked eye.
+highlight groups because they are simply recognizable.
 
 
 # Installing in the system
-
 sed 's/hexmartColors/hexmart/g' hexmartColors.vim > hexmart.vim
 
 mv hexmart.vim /usr/share/vim/vim82/colors/
