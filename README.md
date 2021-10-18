@@ -20,8 +20,13 @@ Make your /etc/vim/vimrc.local and /etc/vim/gvimrc.local like mine.
 
   If you don't use them:
 
-mv gvimrc.local ~/.gvimrc
+~$ mv gvimrc.local ~/.gvimrc
 
-mv vimrc.local  ~/.vimrc
+~$ mv vimrc.local  ~/.vimrc
 
  
+# Colours test
+:e /usr/share/vim/vim81/colors/hexmart.vim | :so /usr/share/vim/vim81/colors/tools/check_colors.vim
+
+Missing some colour references is not a problem for me.
+
