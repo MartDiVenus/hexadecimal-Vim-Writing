@@ -68,7 +68,7 @@ hi symbolsScience				guifg=#7FFFD4					ctermfg=lightBlue
 hi symbolsQuotes				guifg=lightGreen				ctermfg=lightGreen
 hi symbolsList			guibg=grey50	guifg=white					ctermfg=7
 hi symbolsSpecial				guifg=lightCyan					ctermfg=lightCyan
-hi sreekLower					guifg=khaki	 				ctermfg=3
-hi sreekCapital					guifg=brown					ctermfg=1
+hi greekLower					guifg=khaki	 				ctermfg=3
+hi greekCapital					guifg=brown					ctermfg=1
 
 "vim: sw=8
